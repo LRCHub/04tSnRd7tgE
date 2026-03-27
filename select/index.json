@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "喝采",
+  "base_artist": "ちあきなおみ",
+  "createdAt": "2026-03-27T14:27:07.106983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "陳百強 feat. Joe Wong and Tom Brown",
+      "has_synced": false,
+      "path": "select/01_喝采_陳百強_feat._Joe_Wong_and_Tom_Brown.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "陳百強",
+      "has_synced": false,
+      "path": "select/02_喝采_陳百強.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "GUMI",
+      "has_synced": false,
+      "path": "select/03_喝采_GUMI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/04_喝采_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "Sammi Cheng",
+      "has_synced": true,
+      "path": "select/05_喝采_Sammi_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "ちあきなおみ",
+      "has_synced": true,
+      "path": "select/06_喝采_ちあきなおみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "陳百強",
+      "has_synced": true,
+      "path": "select/07_喝采_陳百強.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "陈百强",
+      "has_synced": true,
+      "path": "select/08_喝采_陈百强.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "Priscilla Chan",
+      "has_synced": true,
+      "path": "select/09_喝采_Priscilla_Chan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "Chan, Danny",
+      "has_synced": true,
+      "path": "select/10_喝采_Chan,_Danny.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "Danny Chan",
+      "has_synced": true,
+      "path": "select/11_喝采_Danny_Chan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "喝采(Live)",
+      "artist": "陈慧娴",
+      "has_synced": false,
+      "path": "select/12_喝采(Live)_陈慧娴.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "喝采(カバー)",
+      "artist": "Takeshi Tsuruno",
+      "has_synced": false,
+      "path": "select/13_喝采(カバー)_Takeshi_Tsuruno.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "Hiroji Miyamoto",
+      "has_synced": true,
+      "path": "select/14_喝采_Hiroji_Miyamoto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "徐小凤",
+      "has_synced": true,
+      "path": "select/15_喝采_徐小凤.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "吕珊",
+      "has_synced": true,
+      "path": "select/16_喝采_吕珊.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "陈慧娴",
+      "has_synced": true,
+      "path": "select/17_喝采_陈慧娴.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "喝采",
+      "artist": "5566",
+      "has_synced": true,
+      "path": "select/18_喝采_5566.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "喝采",
+      "artist": "ちあきなおみ",
+      "has_synced": false,
+      "path": "select/pl_01_喝采_ちあきなおみ.txt"
+    }
+  ]
+}
